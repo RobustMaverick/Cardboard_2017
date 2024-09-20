@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+<head>
+
+
+
+
+
+
+<style>
+
+
+
+
+
+.w3-image{max-width:100%;height:auto}
+.w3-responsive{overflow-x:auto}
+.w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,.w3-cell-row:before,.w3-cell-row:after,
+.w3-topnav:after,.w3-topnav:before,.w3-clear:after,.w3-clear:before,.w3-btn-group:before,.w3-btn-group:after,.w3-btn-bar:before,.w3-btn-bar:after,.w3-bar:before,.w3-bar:after
+{content:"";display:table;clear:both}
+.w3-col,.w3-half,.w3-third,.w3-twothird,.w3-threequarter,.w3-quarter{float:left;width:100%}
+.w3-light-green,.w3-hover-light-green:hover{color:#000!important;background-color:#8bc34a!important}
+.w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
+.w3-black,.w3-hover-black:hover{color:#fff!important;background-color:#000!important}
+.w3-col.l3,.w3-quarter{width:24.99999%}
+.w3-col.s4{width:33.33333%}
+
+
+
+
+</style>
+
+
+
+
+<title>Website 1.0 </title>
+</head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body background="JC0xlot.jpg">
+
+<div id=top><font color="white">
+<ul id=toplayer>
+
+<li style="float:right" id=topp><b>Log in</b> </li>
+
+  <input type="text" name="search" placeholder="Search..">
+
+  
+  
+  
+  
+ 
+  
+  <li style="float:right" id=topp><b>Sign up </b></li>
+
+      
+      <i class="fa fa-search"></i>
+<i class="fa fa-shopping-cart "></i>
+
+</ul></font>
+
+
+
+</div>
+
+<br>
+<div>
+	<h1> CARD<font color=#4CAF50>BOARD</font> </h1>
+</div>
+
+
+
+<div   id=divmenu><font color="black">
+	<ul  id=menu>
+		<li id=items><a href="Home.html">HOME</a></li>
+		<li id=items><a  class="active" href="Board Types.html">BOARD TYPES</a></li>
+		<li id=items><a href="Adaptive Parts.html">ADAPTIVE PARTS</a></li>
+		<li id=items><a href="Donation.html">DONATION</a></li>
+		<li id=items><a href="About Us.html">ABOUT US</a></li>
+	</ul></font>
+</div>
+
+
+<div>
+
+<ul id=down>
+<p align="center" id=site>Site Navigation</p>
+	<li id=itemdown>SEARCH</li>
+	<li id=itemdown>FORUM</li>
+	<li id=itemdown>CONTACT</li>
+	<li id=itemdown>FAQ</li>
+	<li id=itemdown>PRIVACY POLICY</li>
+	<li id=itemdown>TERMS OF SERVICE</li>
+ 
+<br>
+<br>
+<br>
+<h5>Copyright© 2017,CardBoard.</h5>
+</div>
+
+
+
+
+
+</body>
+</html>
